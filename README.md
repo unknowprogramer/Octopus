@@ -1,8 +1,10 @@
-# Octopus - Development Document
+# Development Document
 
 This document cover how to contribute to Octopus
 
-The official home of this guide is https://github.com/unknowprogramer/Octopus
+The official home of this guide is [github.com/unknowprogramer/Octopus](https://github.com/theriley106/SneakerBotTutorials)
+
+[TOC]
 
 ## 1. Build Environment
 
@@ -46,7 +48,9 @@ Similar project like [NikeShoeBot](https://www.nikeshoebot.com/) and [AioBot](ht
 
 ## 7. Reference
 
-
+[1]: https://github.com/theriley106/SneakerBotTutorials	"Sneaker Bot Tutorials"
+[2]: https://selenium-python.readthedocs.io/	"Selenium Official Manual"
+[3]: https://developers.google.com/edu/python/introduction	"Google Python Manual"
 
 ## 8. Project Progress Estimate
 
