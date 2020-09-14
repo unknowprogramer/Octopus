@@ -30,7 +30,7 @@ The developed project name Octopus, the purpose of it is by using the Multithrea
   - Huy - Founder
   - Tony - Founder
 
-Similar project like [NikeShoeBot](https://www.nikeshoebot.com/) and [AioBot](https://www.aiobot.com/) is what we are competing against.
+Similar project like [NikeShoeBot](https://www.nikeshoebot.com/) and [AioBot](https://www.aiobot.com/) is what we are competing against. 
 
 ## 5. Module Instruction
 
@@ -48,9 +48,11 @@ Similar project like [NikeShoeBot](https://www.nikeshoebot.com/) and [AioBot](ht
 
 ## 7. Reference
 
-[1]: https://github.com/theriley106/SneakerBotTutorials	"Sneaker Bot Tutorials"
-[2]: https://selenium-python.readthedocs.io/	"Selenium Official Manual"
-[3]: https://developers.google.com/edu/python/introduction	"Google Python Manual"
+- Sneaker Bot Tutorials: https://github.com/theriley106/SneakerBotTutorials
+
+- Selenium Official Manual: https://selenium-python.readthedocs.io/
+
+- Google Python Manual: https://developers.google.com/edu/python/introduction
 
 ## 8. Project Progress Estimate
 
